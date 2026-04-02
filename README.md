@@ -104,4 +104,4 @@ Response includes answer, inline citations, source papers, and token usage.
 ## Author
 
 Suraj Chandra — AI/ML Engineer
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/hcsuraj07)
+[LinkedIn](www.linkedin.com/in/surajhc) | [GitHub](https://github.com/hcsuraj07)
