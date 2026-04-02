@@ -1,0 +1,9 @@
+code .gitignore
+venv/
+.env
+chroma_db/
+data/pdfs/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
